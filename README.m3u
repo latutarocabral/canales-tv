@@ -43,7 +43,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99587.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99583.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinema Dinamita HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99584.m3u8
-#EXTINF:-1 ,Cinemax HD ARG
+#EXTINF:-1,Cinemax HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99585.m3u8
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN en Español ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99590.m3u8
@@ -100,7 +100,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99564.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99565.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png",FOX Sports 2 ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28596.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XxkW81oEvvY/XW3Ix6HiuPI/AAAAAAAAAPs/aaAcnLMZYc4iM1QqFMXyEjQD34XkwvsJwCLcBGAs/s1600/tyc-sports.png",TyC Sports HD ARG
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TyC Sports HD ARG
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YjkxONtCL6s/XYoC7Xs-CnI/AAAAAAAAAYI/FH9U4nccBdYIas3iOTUleRma7Xhy0q6wACLcBGAsYHQ/s1600/fox%2Bdeportes.png",FOX Sports 1 HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28597.m3u8
