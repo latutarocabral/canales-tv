@@ -83,7 +83,6 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99560.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99561.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png",El Rural ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28587.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dSbW6kO1lGc/XW3Ip4GC4JI/AAAAAAAAAOs/KPIpESRj97IocG5qoQMwD8KH3n3QYvjWQCLcBGAs/s1600/telefe.png",Telefe HD ARG
 #EXTINF:-1 tvg-logo="https://cablegratis.online/wp-content/uploads/2019/06/el-trece.png",El trece HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99557.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/television-publica-argentina-logo-ED8C948CF8-seeklogo.com.png",TV Publica HD ARG
@@ -91,17 +90,19 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28581.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",DeporTV HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99576.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Nn8lYlWob2Y/XW3H7sfzEhI/AAAAAAAAAIk/_Uwz80nFOkAynBcj1daM9cCm6Y7poR_xgCLcBGAs/s1600/espn.png",,ESPN HD ARG
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99562.m3u8
+http://8.242.187.233:5800/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gS2j3zywxJs/XW3H4i-BleI/AAAAAAAAAIM/l0RyZu9gSYsAZ4ZuqWURE2rkURr7nsmkACLcBGAs/s1600/espn-2.png",ESPN 2 Latin Sur HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99563.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png",ESPN Extra HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99564.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Go8cdnbkSBk/XW3H5sChodI/AAAAAAAAAIU/8hl5-nxo5E4G3lzYTa2ePFHM1cBVx5TqACLcBGAs/s1600/espn-3.png",ESPN3 Sur HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99565.m3u8
+#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",ESPN 4
+http://8.242.187.233:5800/play/a0br/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png",FOX Sports 2 ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28596.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TyC Sports HD ARG
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YjkxONtCL6s/XYoC7Xs-CnI/AAAAAAAAAYI/FH9U4nccBdYIas3iOTUleRma7Xhy0q6wACLcBGAsYHQ/s1600/fox%2Bdeportes.png",FOX Sports 1 HD ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28597.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png",Fox Sports 2 Argentina HD ARG
