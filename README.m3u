@@ -99,6 +99,8 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99564.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99565.m3u8
 #EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",ESPN 4
 http://8.242.187.233:5800/play/a0br/index.m3u8
+#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png",Claro sports 
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png",FOX Sports 2 ARG
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/28596.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TyC Sports HD ARG
